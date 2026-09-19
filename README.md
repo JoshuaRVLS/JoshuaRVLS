@@ -31,5 +31,5 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,c,python,js,ts,react,nextjs,blender,linux,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,c,python,js,ts,react,nextjs" alt="Skills" />
 </p>
