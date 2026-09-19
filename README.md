@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=JoshuaRVLS&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 </p>
 
 ---
